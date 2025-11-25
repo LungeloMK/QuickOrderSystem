@@ -29,8 +29,13 @@ Inter-thread communication patterns
 
 ## Sample Output
 The order is started
+
 The order is completed
+
 The Payment has started
+
 The Payment is completed
+
 The shipping is started
+
 The shipping is completed
